@@ -70,3 +70,27 @@
 2025-05-26 00:47:20.483 | INFO     | __main__:<module>:72 - Starting text processing...
 2025-05-26 00:47:20.485 | INFO     | __main__:process_text_file:65 - Processed text file: data\romeo.txt, Word count saved to: data_processed\text_romeo_word_count.txt
 2025-05-26 00:47:20.485 | INFO     | __main__:<module>:74 - Text processing complete.
+2025-05-26 01:26:22.075 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-26 01:26:22.075 | INFO     | __main__:<module>:72 - Starting text processing...
+2025-05-26 01:26:22.079 | INFO     | __main__:process_text_file:65 - Processed text file: data\romeo.txt, Word count saved to: data_processed\text_romeo_word_count.txt
+2025-05-26 01:26:22.079 | INFO     | __main__:<module>:74 - Text processing complete.
+2025-05-26 01:26:29.473 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-26 01:26:29.475 | INFO     | __main__:<module>:83 - Starting Excel processing...
+2025-05-26 01:26:29.500 | INFO     | __main__:process_excel_file:76 - Processed Excel file: data\Feedback.xlsx, Word count saved to: data_processed\excel_feedback_github_count.txt
+2025-05-26 01:26:29.500 | INFO     | __main__:<module>:85 - Excel processing complete.
+2025-05-26 01:46:27.539 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-26 01:46:27.539 | INFO     | __main__:<module>:97 - Starting CSV processing...
+2025-05-26 01:46:27.550 | INFO     | __main__:process_csv_file:90 - Processed CSV file: data\2020_happiness.csv, Statistics saved to: data_processed\happiness_ladder_score_stats.txt
+2025-05-26 01:46:27.550 | INFO     | __main__:<module>:99 - CSV processing complete.
+2025-05-26 01:48:32.511 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-26 01:48:32.511 | INFO     | __main__:<module>:83 - Starting Excel processing...
+2025-05-26 01:48:32.535 | INFO     | __main__:process_excel_file:76 - Processed Excel file: data\Feedback.xlsx, Word count saved to: data_processed\excel_feedback_github_count.txt
+2025-05-26 01:48:32.535 | INFO     | __main__:<module>:85 - Excel processing complete.
+2025-05-26 01:53:34.730 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-26 01:53:34.732 | INFO     | __main__:<module>:117 - Starting JSON processing...
+2025-05-26 01:53:34.734 | INFO     | __main__:process_json_file:110 - Processed JSON file: data\astros.json, Results saved to: data_processed\json_astronauts_by_craft.txt
+2025-05-26 01:53:34.734 | INFO     | __main__:<module>:119 - JSON processing complete.
+2025-05-26 01:55:54.892 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-26 01:55:54.893 | INFO     | __main__:<module>:72 - Starting text processing...
+2025-05-26 01:55:54.895 | INFO     | __main__:process_text_file:65 - Processed text file: data\romeo.txt, Word count saved to: data_processed\text_romeo_word_count.txt
+2025-05-26 01:55:54.896 | INFO     | __main__:<module>:74 - Text processing complete.

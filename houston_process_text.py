@@ -48,7 +48,7 @@ def process_text_file():
     output_file = pathlib.Path(PROCESSED_DIR, "text_romeo_word_count.txt")
 
    
-    word_to_count: str = "HouseHold"
+    word_to_count: str = "Romeo"
 
     
     word_count: int = count_word_occurrences(input_file, word_to_count)
